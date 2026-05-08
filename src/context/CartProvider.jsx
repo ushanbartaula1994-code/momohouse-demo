@@ -1,6 +1,6 @@
 import { createContext, useEffect, useReducer } from "react";
 export const CartContext = createContext();
-const getItem = () => {
+const getItem = () => { 
   let res = localStorage.getItem("cart");
   return res ? JSON.parse(res) : [];
 };
