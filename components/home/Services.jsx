@@ -1,6 +1,6 @@
 import { useNavigate } from "react-router-dom"
 import Quality from "../../assets/images/Quality.png"
-import Party from "../../assets/images/Party.png"
+import Party from "../../assets/images/party.png"
 import Chef from "../../assets/images/Chef.png"
 import Button from "../common/Button"
 import { IoIosArrowRoundForward } from "react-icons/io";
