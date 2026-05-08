@@ -1,4 +1,4 @@
-import img from "../home/../../assets/images/img.png"
+import img from "../../assets/images/img.png"
 
 
 function Happy() {

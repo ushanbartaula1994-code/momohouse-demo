@@ -1,7 +1,7 @@
 import { useNavigate } from "react-router-dom";
-import Ellipse from "../home/../../assets/images/Ellipse.png";
-import momo from "../home/../../assets/images/momo.png";
-import oneBg from "../home/../../assets/images/oneBg.png";
+import Ellipse from "../../assets/images/Ellipse.png";
+import momo from "../../assets/images/momo.png";
+import oneBg from "../../assets/images/oneBg.png";
 import Button from "../common/Button";
 import { IoIosArrowRoundForward } from "react-icons/io";
 

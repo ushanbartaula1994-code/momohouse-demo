@@ -1,7 +1,7 @@
 import { Navigate, useNavigate } from "react-router-dom"
-import Rectangle1 from "../home/../../assets/images/Rectangle1.png";
-import pngwing from "../pngwing/../../assets/images/pngwing.png";
-import Group from "../home/../../assets/images/Group.png";
+import Rectangle1 from "../../assets/images/Rectangle1.png";
+import pngwing from "../../assets/images/pngwing.png";
+import Group from "../../assets/images/Group.png";
 import Button from "../common/Button";
 import { IoIosArrowRoundForward } from "react-icons/io";
 

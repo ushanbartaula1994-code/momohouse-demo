@@ -1,5 +1,5 @@
-import momolove2 from "../home/../../assets/images/momolove2.png"
-import momoloveside from"../home/../../assets/images/momoloveside.png"
+import momolove2 from "../../assets/images/momolove2.png"
+import momoloveside from"../../assets/images/momoloveside.png"
 function Handcrafted() {
   return (
     <section className="flex p-20 justify-around  h-[440px]">

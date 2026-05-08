@@ -1,5 +1,5 @@
-import inovation from "../home/../../assets/images/inovation.png"
-import inovationmomo from "../home/../../assets/images/inovationmomo.png"
+import inovation from "../../assets/images/inovation.png"
+import inovationmomo from "../../assets/images/inovationmomo.png"
 
 function Inovation() {
   return (

@@ -1,5 +1,5 @@
-import rightmarcus from "../home/../../assets/images/rightmarcus.png"
-// import marcus from "../home/../../assets/images/marcus.png"
+import rightmarcus from "../../assets/images/rightmarcus.png"
+// import marcus from "../../assets/images/marcus.png"
 import Button from "../common/Button"
 import { FaArrowLeft } from "react-icons/fa";
 import { FaArrowRight } from "react-icons/fa";

@@ -1,5 +1,5 @@
-import momowithlove from "../home/../../assets/images/momowithlove.png"
-import momo2 from "../home/../../assets/images/momo2.png"
+import momowithlove from "../../assets/images/momowithlove.png"
+import momo2 from "../../assets/images/momo2.png"
 
 function MomoWithLove() {
   return (
